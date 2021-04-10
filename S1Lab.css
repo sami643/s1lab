@@ -1,4 +1,71 @@
-#topBar
+.menu
 {
-    background-color: brown;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 5px;
+    border-color: blueviolet;
+   
+
 }
+
+.bttns
+{
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+
+#color
+{
+    color: blue;
+    
+}
+
+.btn-group
+{
+background-color: white;
+}
+
+.dropdown
+{
+    padding-inline: 1%;
+  
+}
+
+.SearchIcon{
+   padding: 1%;
+   padding-left: 2%;
+}
+
+.menuUnder
+{
+    background-color: gainsboro;
+    text-align: center;
+    padding: 2%;
+    font-size: medium;
+}
+#text1
+{
+    text-align: left;
+    font-size: large;
+    padding-top: 2%;
+}
+
+.footer
+{
+    text-align: center;
+    border-top: 1px dotted black;  
+}
+
+.web
+{
+    padding:5%;
+    font-size: medium;
+ background-image: url("./555.jpeg");
+ background-repeat: no-repeat;
+ background-size: 100%;
+ color: white;
+}
+
+
